@@ -7,35 +7,35 @@
 .rainbow{height: 180px;overflow: hidden;}
 .rainbow div{overflow: hidden;}
 .rainbow > div{
-    border: 1px solid hsl(0, 50%, 50%) ;
+    border: 3px solid hsl(0, 37%, 76%) ;
     width: 400px;height: 400px;
-    background:red;border-radius: 50%;
+    background:hsl(0, 90%, 50%);border-radius: 50%;
 }
 .rainbow > div >div{
     
    margin: 10px;height: 380px;
-    background:hsl(60, 50%, 50%);border-radius: 50%;
+    background:hsl(45, 61%, 51%);border-radius: 50%;
 }
 .rainbow > div >div >div{
   border-radius: 50%;
    margin: 10px;height: 360px;
-    background:hsl(120, 50%, 50%);}
+    background:hsl(60, 50%, 54%);}
  .rainbow > div >div >div >div{
         border-radius: 50%;
        margin: 10px;height: 340px;
-        background:hsl(180, 50%, 50%);}
+        background:hsl(120, 50%, 50%);}
         .rainbow > div >div >div >div >div{
            border-radius: 50%;
            margin: 10px;height: 320px;
-            background:hsl(240, 50%, 50%);}
+            background:hsl(180, 50%, 50%);}
             .rainbow > div >div >div >div >div>div{
             border-radius: 50%;
                margin: 10px;height: 300px;
-                background: hsl(300 ,50%, 50%);}
+                background: hsl(240 ,80%, 50%);}
                 .rainbow > div >div>div >div >div >div>div{
                   border-radius: 50%;
                    margin: 10px;height: 280px;
-                    background:hsl(330 ,50%, 50%);}
+                    background:hsl(300,50%, 50%);}
                    .rainbow > div >div>div>div >div >div >div>div{
                         border-radius: 50%;
                        margin: 10px;height: 280px;
